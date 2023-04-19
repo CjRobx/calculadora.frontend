@@ -1,2 +1,2 @@
 # calculadora.frontend
-calculadora realizara en el curso Full Stack Java
+calculadora realizada en el curso Full Stack Java
